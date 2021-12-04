@@ -17,6 +17,9 @@ Backend kod mimarisini anlatan yapı [medium yazısı](https://aoguz.medium.com/
 
 [Backend Repo](https://github.com/aoguz1/gdg_denizli_starbucks_workshop)
 
+[Swagger Dokümantasyon](https://starbucks-mobile-backend-exp.herokuapp.com/api-docs#/)
+
+
 ## Mobile
 
 [Mobile Sunum](https://slides.com/fatihemree/flutter)
